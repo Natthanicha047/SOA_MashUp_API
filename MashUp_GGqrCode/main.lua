@@ -79,7 +79,3 @@ btnSound = widget.newButton( {
 
 txfWord = native.newTextField(cx, 340, 200, 40)
 txfWord.align = "center"
-
-
---imgChart.isVisible = false
---txfWord.isVisible = false
